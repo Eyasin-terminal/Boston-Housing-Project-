@@ -48,6 +48,3 @@ The project uses the **Boston Housing dataset**, which includes information abou
 
 ---
 
-This README provides context, expectations, and guidance for anyone reviewing your work.
-
-If you want, I can also **add a table of the 17 exercises with brief descriptions**, which makes it even more professional and easy for reviewers to follow. Do you want me to do that?
